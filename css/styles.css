@@ -18,6 +18,7 @@ header{
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
 }
 
 main {
@@ -42,7 +43,6 @@ nav {
   width: 975px;
   height: 80px;
   position: absolute;
-  left: 675px;
   display: flex;
   justify-content: space-around;
   align-items: center;
