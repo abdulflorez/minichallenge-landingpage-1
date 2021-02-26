@@ -8,6 +8,10 @@ html {
   font-family: 'Roboto', sans-serif;
 }
 
+body{
+  width: 100%;
+}
+
 header{
   width: 100%;
   height: auto;
@@ -38,7 +42,7 @@ nav {
   width: 975px;
   height: 80px;
   position: absolute;
-  left: 72px;
+  left: 675px;
   display: flex;
   justify-content: space-around;
   align-items: center;
